@@ -145,7 +145,10 @@ export default function LoginPage(props) {
                         autoComplete: "off",
                       }}
                     />
+                    <p>UserId: 9791627920</p>
+                    <p>Password: 123</p>
                   </CardBody>
+
                   <CardFooter className={classes.cardFooter}>
                     <Button simple color="primary" size="lg" type="submit">
                       Login
